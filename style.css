@@ -1,8 +1,32 @@
-.body{
 
+ul {
+ list-style-type: none;
+ margin: 15px;
+ padding: 10px;
 }
 
-.container{
-  width: 80%;
-  margin: 0 auto;
+
+li a {
+  display: inline;
+  color:black;
+  text-align: left; 
+  padding: 16px;
+}
+
+li {
+  display: inline;
+}
+
+img {
+  border-radius:50%;
+}
+
+/* change the link color to green on hover*/
+li a:hover {
+  background-color: green; 
+}
+
+.container {
+  background-color:grey;
+  border:black;
 }

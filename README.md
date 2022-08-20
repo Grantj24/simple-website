@@ -18,3 +18,4 @@ This is a personal summary page, one that I will improve on going forward to eve
 AUTHOR
 
 Grant Jeffries - Software Developer
+
