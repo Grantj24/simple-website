@@ -10,7 +10,7 @@ li a {
   display: inline;
   color:black;
   text-align: left; 
-  padding: 16 px; 
+  padding: 16px;
 }
 
 li {
@@ -19,4 +19,14 @@ li {
 
 img {
   border-radius:50%;
+}
+
+/* change the link color to green on hover*/
+li a:hover {
+  background-color: green; 
+}
+
+.container {
+  background-color:grey;
+  border:black;
 }
