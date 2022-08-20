@@ -1,10 +1,22 @@
-.body{
-  margin: 0;
-  background: white;
-  text-align: center;
+
+ul {
+ list-style-type: none;
+ margin: 15px;
+ padding: 10px;
 }
 
-.container{
-  width: 80%;
-  margin: 0 auto;
+
+li a {
+  display: inline;
+  color:black;
+  text-align: left; 
+  padding: 16 px; 
+}
+
+li {
+  display: inline;
+}
+
+img {
+  border-radius:50%;
 }
